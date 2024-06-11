@@ -1,0 +1,809 @@
+2024-06-06 10:59:27,720 - __main__ - INFO - main - get_model_res - 89 - 模型 kimi 响应生成成功，当前input:你好吗,'输出output：你好！作为一个人工智能助手，我没有情感，但我随时准备帮助你解答问题和解决问题。有什么可以帮你的吗？
+2024-06-06 11:00:59,005 - __main__ - INFO - main - get_model_res - 89 - 模型 kimi 响应生成成功，当前input:你好吗,'输出output：你好！作为人工智能助手，我没有情感，但我随时准备帮助你解决问题或回答你的疑问。有什么我可以帮你的吗？
+2024-06-06 11:23:44,317 - main - INFO - main - get_model_res - 89 - 模型 kimi 响应生成成功，当前input:你好吗,'输出output：你好!作为一个AI助手,我的状态始终是稳定的。我随时准备回答你的问题,为你提供帮助。很高兴和你聊天,让我们开始对话吧。
+2024-06-06 11:28:38,987 - main - INFO - main - get_model_res - 89 - 模型 kimi 响应生成成功，当前input:你好吗,'输出output：我很好，谢谢你的关心！作为人工智能助手，我随时准备为你提供帮助。有什么问题我可以帮你解决吗？
+2024-06-06 11:30:35,882 - main - INFO - main - get_model_res - 89 - 模型 kimi 响应生成成功，当前input:你好吗,'输出output：我很好，谢谢您的关心！作为一个人工智能助手，我随时准备帮助您解答问题或提供信息。请问有什么我可以帮助您的吗？
+2024-06-06 11:33:28,354 - main - INFO - main - get_model_res - 89 - 模型 kimi 响应生成成功，当前input:你好吗,'输出output：我很好，谢谢你的关心！作为人工智能，我没有情感，但我随时准备帮助你解决问题或回答你的问题。有什么我可以帮你的吗？
+2024-06-06 14:43:24,448 - __main__ - INFO - main - get_model_res - 89 - 模型 kimi 响应生成成功，当前input:你好吗,'输出output：你好！作为一个人工智能助手，我没有情感，但我总是准备好为你提供帮助。有什么我可以帮你的吗？
+2024-06-06 15:05:03,749 - main - INFO - main - get_model_res - 89 - 模型 KIMI 响应生成成功，当前input:认真是一种态度,'输出output：认真确实是一种非常重要的态度，它体现在对待工作、学习、生活等各个方面。认真的态度可以帮助我们更好地完成任务，提高效率，同时也能赢得他人的尊重和信任。无论是对待细节的精益求精，还是对待目标的坚持不懈，认真都是成功的关键因素之一。保持认真的态度，可以帮助我们不断进步，实现自我价值。
+2024-06-06 15:05:07,822 - main - INFO - main - get_model_res - 89 - 模型 KIMI 响应生成成功，当前input:认真是一种态度,'输出output：认真确实是一种非常重要的态度，它体现在我们对待工作、学习、生活等各个方面。认真的态度可以帮助我们更好地完成任务，提高效率，同时也能赢得他人的尊重和信任。无论是在个人成长还是在团队合作中，认真都是不可或缺的品质。
+2024-06-06 15:05:12,795 - main - INFO - main - get_model_res - 89 - 模型 KIMI 响应生成成功，当前input:认真是一种态度,'输出output：确实，认真是一种非常重要的态度，它体现在我们对待工作、学习、生活以及与人交往的方方面面。认真的态度可以帮助我们更专注、更深入地去理解问题，提高效率和质量，同时也能赢得他人的尊重和信任。无论是在个人发展还是团队协作中，认真都是成功的关键因素之一。
+2024-06-06 15:05:17,140 - main - INFO - main - get_model_res - 89 - 模型 KIMI 响应生成成功，当前input:认真是一种态度,'输出output：认真是一种态度，它体现了一个人对待工作、学习或生活的专注和投入。认真的态度可以帮助我们提高效率，减少错误，并且能够更好地实现目标。无论是对待细节的专注，还是对结果的追求，认真都是成功的关键因素之一。保持认真的态度，可以帮助我们在各种挑战中保持冷静，做出明智的决策。
+2024-06-06 15:05:22,569 - main - INFO - main - get_model_res - 89 - 模型 KIMI 响应生成成功，当前input:认真是一种态度,'输出output：认真是一种非常重要的态度，它体现了一个人对待工作、学习和生活的专注和投入。认真的态度可以帮助我们更好地完成任务，提高效率，同时也能赢得他人的尊重和信任。无论是在学习上、工作中还是日常生活中，保持认真的态度都是非常重要的。它能够让我们更加细致地观察问题，更深入地思考问题，从而找到更好的解决方案。同时，认真也是对自己和他人的负责任的表现。
+2024-06-06 15:05:54,652 - main - INFO - main - get_model_res - 89 - 模型 KIMI 响应生成成功，当前input:认真是一种态度,'输出output：认真是一种态度，它体现了一个人对待工作、学习、生活等方面的态度和精神。认真的人通常更加专注、细致、有责任感，他们愿意投入时间和精力去追求卓越，不断提升自我。这种态度不仅能够提高个人的效率和质量，也能在团队中树立榜样，带动他人共同进步。认真的态度是成功的关键因素之一，它能够帮助人们克服困难，实现目标。
+2024-06-06 15:06:01,211 - main - INFO - main - get_model_res - 89 - 模型 KIMI 响应生成成功，当前input:认真是一种态度,'输出output：确实，认真是一种非常重要的态度。它意味着对待任何事情都持有一种专注、细致和负责任的精神。无论是在学习、工作还是日常生活中，认真的态度都能帮助我们更好地完成任务，提高效率，并且能培养出良好的习惯和专业素养。认真的态度也是个人成长和成功的重要因素之一，它能够激发我们的潜能，帮助我们实现目标和梦想。
+2024-06-06 15:06:15,236 - main - INFO - main - get_model_res - 89 - 模型 KIMI 响应生成成功，当前input:认真是一种态度,'输出output：认真是一种态度，它代表了一个人对待事物的专注、细致和投入程度。认真的态度可以体现在多个方面：
+
+1. **工作学习**：在工作中认真，意味着对工作负责，追求卓越，不断学习和提升。
+2. **生活态度**：在生活中认真，意味着对待生活有计划、有条理，注重细节。
+3. **人际交往**：在与人交往时认真，意味着尊重他人，诚实守信，能够建立良好的人际关系。
+4. **自我提升**：认真的态度也体现在不断追求自我提升，不断挑战自我，实现个人成长。
+
+认真的态度有助于提高个人效率，增强责任感，同时也能够在团队中树立榜样，带动他人共同进步。它是实现目标和成功的重要因素之一。
+2024-06-06 15:06:27,990 - main - INFO - main - get_model_res - 89 - 模型 KIMI 响应生成成功，当前input:认真是一种态度,'输出output：是的，认真是一种态度，它反映了一个人对事物的专注程度、责任心以及追求完美的精神。这种态度可以带来以下好处：
+
+1. **提高效率**：认真对待每一项任务，可以减少错误，提高工作效率。
+2. **质量保证**：对细节的关注可以确保工作或产品的质量。
+3. **信任建立**：认真的态度能够赢得他人的信任和尊重。
+4. **自我成长**：通过认真的态度，个人可以不断学习新知识，提升自我。
+5. **目标实现**：认真的态度有助于设定并实现个人和职业目标。
+
+认真不仅是一种工作态度，它还可以渗透到生活的各个方面，帮助我们更好地达成目标，实现自我价值。
+2024-06-06 15:06:45,726 - main - INFO - main - get_model_res - 89 - 模型 KIMI 响应生成成功，当前input:认真是一种态度,'输出output：认真确实是一种态度，它涵盖了对事物的专注、细致、负责和尊重。这种态度在不同的情境下有不同的表现：
+
+1. **学习**：认真学习可以加深理解，提高知识水平。
+2. **工作**：认真工作可以提升效率，保证工作质量。
+3. **生活**：认真生活可以提高生活质量，享受生活的细节。
+4. **人际交往**：认真对待他人可以建立良好的人际关系。
+5. **自我提升**：认真对待自我提升可以促进个人成长和发展。
+
+认真的态度有助于我们更好地面对挑战，实现目标，并且能够在社会中获得认可和尊重。它是一种积极的生活态度，能够帮助我们不断进步和成长。
+2024-06-06 15:51:52,586 - main - INFO - main - get_model_res - 89 - 模型 KIMI 响应生成成功，当前input:认真是一种态度,'输出output：认真确实是一种态度，它体现了一个人对待工作、学习或生活中的各种事务的专注和投入。认真的态度可以帮助人们更好地完成任务，提高效率，减少错误，并且能够赢得他人的尊重和信任。无论是在学习新知识、完成工作任务，还是在日常生活中，保持认真的态度都是非常重要的。
+2024-06-06 15:51:59,935 - main - INFO - main - get_model_res - 89 - 模型 KIMI 响应生成成功，当前input:认真是一种态度,'输出output：认真是一种非常重要的个人品质，它体现了一个人对工作、学习或生活的态度。具有认真态度的人通常会：
+
+1. **专注**：在面对任务时，能够集中精力，不被外界干扰。
+2. **细致**：注重细节，力求完美，避免粗心大意。
+3. **负责**：对自己的行为和结果负责，不推卸责任。
+4. **勤奋**：愿意投入时间和精力去完成任务，不偷懒。
+5. **持续改进**：不断学习和进步，追求更高的标准。
+
+认真的态度有助于提高个人效率，增强团队合作，同时也是职业成功和个人成长的关键因素。
+2024-06-06 15:52:07,655 - main - INFO - main - get_model_res - 89 - 模型 KIMI 响应生成成功，当前input:认真是一种态度,'输出output：确实，认真是一种态度，它指的是一个人在面对各种任务和挑战时所持有的专注、负责、细致和努力的心态。这种态度可以带来以下好处：
+
+1. **提高效率**：认真的态度可以帮助人们更有效地完成任务，减少错误和时间浪费。
+2. **增强质量**：注重细节和追求卓越可以提升工作或学习成果的质量。
+3. **培养责任感**：认真的人往往更有责任感，愿意对自己的行为和结果负责。
+4. **促进学习**：认真的态度鼓励人们不断学习新知识，提高个人能力。
+5. **赢得信任**：认真的态度能够赢得他人的尊重和信任，建立良好的人际关系。
+
+无论是在个人发展、职业发展还是日常生活中，认真的态度都是非常重要的。
+2024-06-06 15:52:18,084 - main - INFO - main - get_model_res - 89 - 模型 KIMI 响应生成成功，当前input:认真是一种态度,'输出output：认真确实是一种态度，它体现在以下几个方面：
+
+1. **专注**：认真的人会全神贯注于手头的任务，不会被外界因素轻易分散注意力。
+
+2. **细致**：认真的人会注重细节，力求做到最好，避免因小失大。
+
+3. **责任心**：认真的人会对自己的行为和结果负责，不逃避问题。
+
+4. **勤奋**：认真的人愿意投入时间和精力去完成任务，不会轻言放弃。
+
+5. **持续改进**：认真的人会不断寻求进步，努力提高自己的能力和水平。
+
+6. **尊重他人**：认真的人会尊重他人的工作和成果，不会轻视或贬低他人。
+
+7. **诚信**：认真的人会诚实守信，不会欺骗或隐瞒。
+
+8. **自我要求**：认真的人会对自己有较高的标准和要求，不会满足于平庸。
+
+认真的态度是成功的关键因素之一，它可以帮助人们在各种领域取得更好的成绩。
+2024-06-06 15:52:26,122 - main - INFO - main - get_model_res - 89 - 模型 KIMI 响应生成成功，当前input:认真是一种态度,'输出output：认真是一种态度，它涉及到多个方面：
+
+1. **专注**：认真的人会集中精力，全力以赴地完成任务。
+2. **细致**：认真的人会关注细节，力求完美。
+3. **负责**：认真的人会对自己的行为和结果负责。
+4. **勤奋**：认真的人会投入时间和精力，不懈努力。
+5. **持续学习**：认真的人会不断学习，提升自己的知识和技能。
+6. **追求卓越**：认真的人会追求卓越，不断提高标准。
+7. **诚信**：认真的人会诚实守信，遵守承诺。
+8. **尊重他人**：认真的人会尊重他人的意见和成果。
+
+认真的态度对于个人成长、职业发展和团队合作都至关重要。它可以帮助我们更好地完成任务，提高效率，提升质量，赢得他人的信任和尊重。
+2024-06-06 18:05:08,879 - main - INFO - main - get_model_res - 83 - 模型 KIMI 响应生成成功，当前input:地球是什么颜色,'输出output：地球的颜色取决于观察的角度和时间。从太空中看，地球通常呈现为蓝色和绿色，因为地球表面约71%被水覆盖，而陆地则覆盖着各种植被，它们的颜色以绿色为主。此外，地球还有白色的云层、棕色的沙漠、白色的极地冰盖等。当从地球表面看时，颜色会根据地理位置、季节和天气条件而有所不同。
+2024-06-06 18:05:14,807 - main - INFO - main - get_model_res - 83 - 模型 KIMI 响应生成成功，当前input:孙悟空是谁哇,'输出output：孙悟空是中国古典小说《西游记》中的主要人物之一，由吴承恩所著。他是一位具有超凡能力、机智勇敢的猴子，被尊称为齐天大圣。孙悟空拥有七十二变、筋斗云等神奇能力，能够变化成各种形态，并且能够飞行。他与唐僧、猪八戒和沙僧一起，历经九九八十一难，护送唐僧西天取经，最终修成正果。
+
+孙悟空的形象深受中国乃至全世界人民的喜爱，他的故事也被多次改编成电影、电视剧、动画等多种形式。他的形象代表了智慧、勇气和忠诚，是中国传统文化中非常著名的一个角色。
+2024-06-06 18:05:18,557 - main - INFO - main - get_model_res - 83 - 模型 KIMI 响应生成成功，当前input:两对父子去饭店吃饭出来为什么只有3个人,'输出output：这个问题是一个经典的逻辑谜题。答案是，两对父子实际上只有三个人：一个父亲和他的儿子，以及另一个父亲和他的儿子。这里的“两对父子”指的是两个父亲和两个儿子，而不是四个人。所以，当他们一起去饭店吃饭后出来，总共只有三个人。
+2024-06-06 18:05:32,741 - main - INFO - main - get_model_res - 83 - 模型 KIMI 响应生成成功，当前input:谈谈Akamai,'输出output：Akamai Technologies, Inc. 是一家全球领先的内容分发网络（CDN）和云服务提供商，总部位于美国马萨诸塞州剑桥市。Akamai 成立于1998年，由麻省理工学院的几位研究人员创立，他们开发了一种新的网络技术，以提高互联网上内容的传输速度和可靠性。
+
+Akamai 的主要业务是提供全球范围内的网络服务，帮助企业加速其在线内容的交付，包括网页、应用程序、视频、软件等。Akamai 的技术可以减少数据传输的延迟，提高用户体验，尤其是在高流量和高需求的情况下。
+
+以下是Akamai的一些关键特点和业务领域：
+
+1. **内容分发网络（CDN）**：Akamai 提供全球性的CDN服务，通过在全球范围内部署服务器，将内容缓存到离用户更近的地方，从而加快内容的加载速度。
+
+2. **网络安全**：Akamai 提供多种网络安全解决方案，包括DDoS防护、Web应用防火墙、安全测试和认证服务等。
+
+3. **云服务**：Akamai 提供云服务，包括云存储、云计算和云安全服务，帮助企业构建和维护其在线业务。
+
+4. **性能优化**：Akamai 的技术可以帮助企业优化其在线应用的性能，包括页面加载速度、应用响应时间等。
+
+5. **媒体交付**：Akamai 提供媒体交付服务，包括视频流、直播和点播服务，支持高清和超高清视频内容的传输。
+
+6. **企业解决方案**：Akamai 还提供针对特定行业或企业需求的定制解决方案，如电子商务、金融服务、游戏和软件分发等。
+
+Akamai 以其创新的技术、全球性的网络覆盖和高质量的服务而闻名，是许多大型企业和组织的首选网络服务提供商。
+2024-06-06 18:06:33,725 - main - INFO - main - get_model_res - 83 - 模型 KIMI 响应生成成功，当前input:地球是什么颜色,'输出output：地球从太空中看，呈现出蓝色和绿色为主的颜色。这是因为地球表面大约71%被水覆盖，主要是海洋，而海洋在阳光照射下呈现蓝色。此外，陆地上的植被，尤其是森林和草地，使地球呈现出绿色。地球还有棕色的沙漠、白色的冰雪和云层，以及其他颜色的地貌，但蓝色和绿色是最为显著的。
+2024-06-06 18:06:39,813 - main - INFO - main - get_model_res - 83 - 模型 KIMI 响应生成成功，当前input:孙悟空是谁哇,'输出output：孙悟空是中国古典文学名著《西游记》中的主要角色之一，由吴承恩所著。他是一位具有超凡能力的神猴，拥有七十二变、筋斗云等神通广大的本领。孙悟空在故事中被尊称为“齐天大圣”，他性格机智、勇敢、顽皮，并且具有很高的智慧和战斗能力。在《西游记》中，孙悟空与唐僧、猪八戒和沙僧一起，历经九九八十一难，最终取得真经，成为佛教的护法神。
+
+孙悟空的形象深受人们喜爱，成为了中国文化中一个非常著名的符号，他的故事也多次被改编成电影、电视剧、动画和各种艺术作品。
+2024-06-06 18:06:44,347 - main - INFO - main - get_model_res - 83 - 模型 KIMI 响应生成成功，当前input:两对父子去饭店吃饭出来为什么只有3个人,'输出output：这个问题是一个经典的逻辑谜题。答案是：两对父子实际上只有三个人，因为其中一对是爷爷和孙子，另一对是父亲和儿子。所以，爷爷、父亲和儿子三个人一起去饭店吃饭，出来时仍然是三个人。这个问题的巧妙之处在于它用“两对父子”这个表述让人误以为会有四个人，但实际上只需要三个人就能构成两对父子的关系。
+2024-06-06 18:07:01,828 - main - INFO - main - get_model_res - 83 - 模型 KIMI 响应生成成功，当前input:谈谈Akamai,'输出output：Akamai Technologies是一家全球领先的内容分发网络（CDN）和云服务提供商，成立于1998年，总部位于美国马萨诸塞州剑桥。Akamai的业务遍及全球，为各种规模的企业提供服务，包括一些世界上最大的互联网公司和企业。
+
+### 主要服务和产品：
+
+1. **内容分发网络（CDN）**：Akamai的CDN服务允许企业将内容缓存到全球多个服务器上，从而加快内容的加载速度，提高用户体验，并减轻原始服务器的负载。
+
+2. **网络安全解决方案**：Akamai提供多种网络安全服务，包括DDoS防护、Web应用防火墙（WAF）、安全测试和认证服务等。
+
+3. **云服务**：Akamai的云服务包括云存储、云计算资源和云安全解决方案，帮助企业实现业务的数字化转型。
+
+4. **性能和优化**：Akamai提供网页和应用程序性能优化服务，帮助企业提升在线服务的速度和效率。
+
+5. **媒体交付**：Akamai为视频、音乐和其他媒体内容提供高效的分发服务，确保高质量和高可靠性的用户体验。
+
+6. **企业解决方案**：Akamai还提供定制化的解决方案，帮助企业解决特定的业务挑战，如电子商务、广告、软件分发等。
+
+### 技术优势：
+
+- **全球覆盖**：Akamai的网络覆盖全球，拥有数以千计的服务器节点，能够提供快速、可靠的服务。
+- **创新技术**：Akamai不断投资于技术创新，包括人工智能、机器学习等，以提高服务的性能和安全性。
+- **可靠性**：Akamai的服务以其高可靠性和稳定性而闻名，是许多大型企业和关键任务应用的首选。
+
+### 行业影响：
+
+Akamai对互联网行业的影响深远，它不仅帮助企业提高了在线服务的性能和安全性，还推动了整个行业的技术进步和创新。通过提供高效的内容分发和强大的网络安全解决方案，Akamai支持了互联网上许多重要的服务和应用，包括电子商务、在线媒体、游戏、金融服务等。
+
+总的来说，Akamai是互联网基础设施和云服务领域的重要参与者，以其创新的技术和服务在全球范围内享有盛誉。
+2024-06-06 18:07:58,764 - main - INFO - main - get_model_res - 83 - 模型 KIMI 响应生成成功，当前input:地球是什么颜色,'输出output：地球从太空中看呈现出蓝色和绿色，这是因为地球表面大约71%被水覆盖，主要是海洋，而陆地则被植被覆盖，使得地球呈现出蓝色和绿色。此外，地球还有云层覆盖，这使得从太空中看地球时，它看起来是白色的。因此，地球的颜色可以被描述为蓝色、绿色和白色。
+2024-06-06 18:08:02,979 - main - INFO - main - get_model_res - 83 - 模型 KIMI 响应生成成功，当前input:孙悟空是谁哇,'输出output：孙悟空是中国古典名著《西游记》中的主要角色之一，由吴承恩所著。他是一位拥有超凡能力的猴子，被尊称为齐天大圣。孙悟空在故事中跟随唐僧去西天取经，一路上保护唐僧，与各种妖魔鬼怪作战，最终取得真经，功德圆满。他以机智、勇敢、变化多端而著称，是中国文学中非常受欢迎的角色。
+2024-06-06 18:08:06,546 - main - INFO - main - get_model_res - 83 - 模型 KIMI 响应生成成功，当前input:两对父子去饭店吃饭出来为什么只有3个人,'输出output：这个问题是一个经典的逻辑谜题。答案是，两对父子实际上是三个人：一个爷爷和他的儿子（也就是爸爸），以及爸爸的儿子（也就是孙子）。爷爷是爸爸的父亲，爸爸是孙子的父亲，所以他们一共是三个人。
+2024-06-06 18:08:19,525 - main - INFO - main - get_model_res - 83 - 模型 KIMI 响应生成成功，当前input:谈谈Akamai,'输出output：Akamai Technologies是一家全球领先的内容分发网络（CDN）和云服务提供商，成立于1998年。Akamai的网络覆盖全球，它通过将内容缓存到靠近用户的服务器上，帮助企业加速网站和应用程序的加载速度，提高用户体验。Akamai提供的服务还包括网络安全解决方案、媒体交付、云安全服务等。
+
+Akamai的核心技术是其智能平台，该平台能够处理大规模的数据传输，并且具备强大的计算能力。它通过全球分布的服务器网络，确保内容的快速分发和高可用性。Akamai还提供了一系列工具和服务，帮助客户优化其在线业务，包括：
+
+1. **内容分发网络（CDN）**：通过全球的服务器网络，加速内容的交付，减少延迟。
+
+2. **网络安全**：提供DDoS防护、Web应用防火墙、安全测试等服务，保护企业免受网络攻击。
+
+3. **云服务**：提供云基础设施和云安全服务，帮助企业构建和保护其云环境。
+
+4. **媒体交付**：为视频流媒体、游戏和其他媒体内容提供优化的交付解决方案。
+
+5. **性能解决方案**：通过各种工具和服务，帮助提升网站和应用程序的性能。
+
+6. **企业解决方案**：为企业提供定制化的解决方案，以满足其特定的业务需求。
+
+Akamai的客户包括许多世界知名的品牌和企业，它们依赖Akamai的服务来保证其在线业务的稳定和安全。Akamai在互联网基础设施和云服务领域扮演着重要角色，是全球互联网生态系统中不可或缺的一部分。
+2024-06-06 18:22:34,589 - __main__ - INFO - main - get_model_res - 84 - 模型 kimi 响应生成成功，当前input:你好吗,'输出output：你好！作为一个人工智能助手，我没有情感，但我随时准备帮助你解决问题或回答你的疑问。有什么我可以帮你的吗？
+2024-06-06 18:23:00,066 - __main__ - INFO - main - get_model_res - 84 - 模型 KIMI 响应生成成功，当前input:地球是什么颜色,'输出output：地球从太空中看呈现出蓝色和绿色，这是因为地球表面约71%被水覆盖，其余部分则被陆地覆盖，陆地上覆盖着植被，使得地球呈现出绿色。蓝色和绿色混合在一起，让地球看起来像是一个蓝色的星球。此外，地球还有白色的云层和冰盖，以及一些黄色和棕色的沙漠和土壤。所以，地球是一个多彩的星球。
+2024-06-06 18:23:04,473 - __main__ - INFO - main - get_model_res - 84 - 模型 KIMI 响应生成成功，当前input:孙悟空是谁哇,'输出output：孙悟空是中国古典小说《西游记》中的主要角色之一，由吴承恩创作。他是一位具有极高智慧和强大力量的猴子，被尊称为“齐天大圣”。孙悟空在故事中与唐僧、猪八戒和沙僧一起，经历了九九八十一难，最终成功取得真经。他的形象深受人们喜爱，是中国传统文化中非常著名的英雄人物。
+2024-06-06 18:23:07,548 - __main__ - INFO - main - get_model_res - 84 - 模型 KIMI 响应生成成功，当前input:两对父子去饭店吃饭出来为什么只有3个人,'输出output：这个问题是一个常见的谜语。谜底是：两对父子实际上是三代人，即祖父、父亲和孙子。所以，尽管是两对父子，但总共只有三个人。
+2024-06-06 18:23:21,157 - __main__ - INFO - main - get_model_res - 84 - 模型 KIMI 响应生成成功，当前input:谈谈Akamai,'输出output：Akamai Technologies, Inc. 是一家全球性的云服务和网络安全公司，成立于1998年，总部位于美国马萨诸塞州剑桥。Akamai 提供广泛的服务，包括内容分发网络（CDN）、网络安全解决方案、云服务和企业应用性能优化等。
+
+以下是Akamai的一些关键特点和优势：
+
+1. **内容分发网络（CDN）**：Akamai 是全球最大的CDN提供商之一，通过在全球范围内部署服务器来加速内容的传输速度，减少延迟，提高用户体验。
+
+2. **网络安全**：Akamai 提供多种网络安全服务，包括DDoS防护、Web应用防火墙、安全测试和认证服务等，帮助企业保护其在线资产免受攻击。
+
+3. **云服务**：Akamai 提供云服务，包括云存储、云安全和云性能优化等，帮助企业更有效地管理和部署其在线应用。
+
+4. **企业应用性能优化**：Akamai 的解决方案可以帮助企业优化其应用性能，提高效率，减少加载时间。
+
+5. **全球覆盖**：Akamai 的服务覆盖全球，拥有超过200个国家和地区的覆盖范围，能够为全球用户提供快速稳定的服务。
+
+6. **创新技术**：Akamai 持续在技术创新上投入，包括人工智能、机器学习等技术，以提高服务的性能和安全性。
+
+7. **客户服务**：Akamai 提供专业的客户服务和技术支持，帮助企业解决在使用其服务过程中遇到的问题。
+
+Akamai 的服务被广泛应用于电子商务、媒体和娱乐、金融服务等多个行业，帮助企业提升在线业务的稳定性、安全性和用户体验。
+2024-06-06 18:25:47,046 - main - ERROR - main - get_model_res - 87 - 请求处理异常：
+urllib3.exceptions.ProxyError: ('Unable to connect to proxy', OSError(0, 'Error'))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\urllib3\connectionpool.py", line 844, in urlopen
+    retries = retries.increment(
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\urllib3\util\retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='kimi.moonshot.cn', port=443): Max retries exceeded with url: /api/auth/token/refresh (Caused by ProxyError('Unable to connect to proxy', OSError(0, 'Error')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\pythonProject\model_fastApiProject\main.py", line 71, in get_model_res
+    refresh_key, key = get_token_key(refresh_key)
+  File "D:\pythonProject\model_fastApiProject\kimichat_model\refresh_kimi.py", line 24, in get_token_key
+    res=requests.get('https://kimi.moonshot.cn/api/auth/token/refresh', headers=headers).json()
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\adapters.py", line 513, in send
+    raise ProxyError(e, request=request)
+requests.exceptions.ProxyError: HTTPSConnectionPool(host='kimi.moonshot.cn', port=443): Max retries exceeded with url: /api/auth/token/refresh (Caused by ProxyError('Unable to connect to proxy', OSError(0, 'Error')))
+2024-06-06 18:25:47,060 - main - WARNING - main - wrapper - 50 - 操作失败，正在重试... 尝试次数：1
+2024-06-06 18:25:49,091 - main - ERROR - main - get_model_res - 87 - 请求处理异常：
+urllib3.exceptions.ProxyError: ('Unable to connect to proxy', OSError(0, 'Error'))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\urllib3\connectionpool.py", line 844, in urlopen
+    retries = retries.increment(
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\urllib3\util\retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='kimi.moonshot.cn', port=443): Max retries exceeded with url: /api/auth/token/refresh (Caused by ProxyError('Unable to connect to proxy', OSError(0, 'Error')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\pythonProject\model_fastApiProject\main.py", line 71, in get_model_res
+    refresh_key, key = get_token_key(refresh_key)
+  File "D:\pythonProject\model_fastApiProject\kimichat_model\refresh_kimi.py", line 24, in get_token_key
+    res=requests.get('https://kimi.moonshot.cn/api/auth/token/refresh', headers=headers).json()
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\adapters.py", line 513, in send
+    raise ProxyError(e, request=request)
+requests.exceptions.ProxyError: HTTPSConnectionPool(host='kimi.moonshot.cn', port=443): Max retries exceeded with url: /api/auth/token/refresh (Caused by ProxyError('Unable to connect to proxy', OSError(0, 'Error')))
+2024-06-06 18:25:49,095 - main - WARNING - main - wrapper - 50 - 操作失败，正在重试... 尝试次数：2
+2024-06-06 18:25:51,116 - main - ERROR - main - get_model_res - 87 - 请求处理异常：
+urllib3.exceptions.ProxyError: ('Unable to connect to proxy', OSError(0, 'Error'))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\urllib3\connectionpool.py", line 844, in urlopen
+    retries = retries.increment(
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\urllib3\util\retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='kimi.moonshot.cn', port=443): Max retries exceeded with url: /api/auth/token/refresh (Caused by ProxyError('Unable to connect to proxy', OSError(0, 'Error')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\pythonProject\model_fastApiProject\main.py", line 71, in get_model_res
+    refresh_key, key = get_token_key(refresh_key)
+  File "D:\pythonProject\model_fastApiProject\kimichat_model\refresh_kimi.py", line 24, in get_token_key
+    res=requests.get('https://kimi.moonshot.cn/api/auth/token/refresh', headers=headers).json()
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\adapters.py", line 513, in send
+    raise ProxyError(e, request=request)
+requests.exceptions.ProxyError: HTTPSConnectionPool(host='kimi.moonshot.cn', port=443): Max retries exceeded with url: /api/auth/token/refresh (Caused by ProxyError('Unable to connect to proxy', OSError(0, 'Error')))
+2024-06-06 18:25:51,120 - main - WARNING - main - wrapper - 50 - 操作失败，正在重试... 尝试次数：3
+2024-06-06 18:25:53,135 - main - ERROR - main - wrapper - 52 - 达到最大重试次数，操作失败。
+2024-06-06 18:25:53,186 - main - ERROR - main - get_model_res - 87 - 请求处理异常：
+urllib3.exceptions.ProxyError: ('Unable to connect to proxy', OSError(0, 'Error'))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\urllib3\connectionpool.py", line 844, in urlopen
+    retries = retries.increment(
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\urllib3\util\retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='kimi.moonshot.cn', port=443): Max retries exceeded with url: /api/auth/token/refresh (Caused by ProxyError('Unable to connect to proxy', OSError(0, 'Error')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\pythonProject\model_fastApiProject\main.py", line 71, in get_model_res
+    refresh_key, key = get_token_key(refresh_key)
+  File "D:\pythonProject\model_fastApiProject\kimichat_model\refresh_kimi.py", line 24, in get_token_key
+    res=requests.get('https://kimi.moonshot.cn/api/auth/token/refresh', headers=headers).json()
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\adapters.py", line 513, in send
+    raise ProxyError(e, request=request)
+requests.exceptions.ProxyError: HTTPSConnectionPool(host='kimi.moonshot.cn', port=443): Max retries exceeded with url: /api/auth/token/refresh (Caused by ProxyError('Unable to connect to proxy', OSError(0, 'Error')))
+2024-06-06 18:25:53,189 - main - WARNING - main - wrapper - 50 - 操作失败，正在重试... 尝试次数：1
+2024-06-06 18:25:55,223 - main - ERROR - main - get_model_res - 87 - 请求处理异常：
+urllib3.exceptions.ProxyError: ('Unable to connect to proxy', OSError(0, 'Error'))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\urllib3\connectionpool.py", line 844, in urlopen
+    retries = retries.increment(
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\urllib3\util\retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='kimi.moonshot.cn', port=443): Max retries exceeded with url: /api/auth/token/refresh (Caused by ProxyError('Unable to connect to proxy', OSError(0, 'Error')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\pythonProject\model_fastApiProject\main.py", line 71, in get_model_res
+    refresh_key, key = get_token_key(refresh_key)
+  File "D:\pythonProject\model_fastApiProject\kimichat_model\refresh_kimi.py", line 24, in get_token_key
+    res=requests.get('https://kimi.moonshot.cn/api/auth/token/refresh', headers=headers).json()
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\adapters.py", line 513, in send
+    raise ProxyError(e, request=request)
+requests.exceptions.ProxyError: HTTPSConnectionPool(host='kimi.moonshot.cn', port=443): Max retries exceeded with url: /api/auth/token/refresh (Caused by ProxyError('Unable to connect to proxy', OSError(0, 'Error')))
+2024-06-06 18:25:55,227 - main - WARNING - main - wrapper - 50 - 操作失败，正在重试... 尝试次数：2
+2024-06-06 18:25:57,250 - main - ERROR - main - get_model_res - 87 - 请求处理异常：
+urllib3.exceptions.ProxyError: ('Unable to connect to proxy', OSError(0, 'Error'))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\urllib3\connectionpool.py", line 844, in urlopen
+    retries = retries.increment(
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\urllib3\util\retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='kimi.moonshot.cn', port=443): Max retries exceeded with url: /api/auth/token/refresh (Caused by ProxyError('Unable to connect to proxy', OSError(0, 'Error')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\pythonProject\model_fastApiProject\main.py", line 71, in get_model_res
+    refresh_key, key = get_token_key(refresh_key)
+  File "D:\pythonProject\model_fastApiProject\kimichat_model\refresh_kimi.py", line 24, in get_token_key
+    res=requests.get('https://kimi.moonshot.cn/api/auth/token/refresh', headers=headers).json()
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\adapters.py", line 513, in send
+    raise ProxyError(e, request=request)
+requests.exceptions.ProxyError: HTTPSConnectionPool(host='kimi.moonshot.cn', port=443): Max retries exceeded with url: /api/auth/token/refresh (Caused by ProxyError('Unable to connect to proxy', OSError(0, 'Error')))
+2024-06-06 18:25:57,254 - main - WARNING - main - wrapper - 50 - 操作失败，正在重试... 尝试次数：3
+2024-06-06 18:25:59,261 - main - ERROR - main - wrapper - 52 - 达到最大重试次数，操作失败。
+2024-06-06 18:25:59,343 - main - ERROR - main - get_model_res - 87 - 请求处理异常：
+urllib3.exceptions.ProxyError: ('Unable to connect to proxy', OSError(0, 'Error'))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\urllib3\connectionpool.py", line 844, in urlopen
+    retries = retries.increment(
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\urllib3\util\retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='kimi.moonshot.cn', port=443): Max retries exceeded with url: /api/auth/token/refresh (Caused by ProxyError('Unable to connect to proxy', OSError(0, 'Error')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\pythonProject\model_fastApiProject\main.py", line 71, in get_model_res
+    refresh_key, key = get_token_key(refresh_key)
+  File "D:\pythonProject\model_fastApiProject\kimichat_model\refresh_kimi.py", line 24, in get_token_key
+    res=requests.get('https://kimi.moonshot.cn/api/auth/token/refresh', headers=headers).json()
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\adapters.py", line 513, in send
+    raise ProxyError(e, request=request)
+requests.exceptions.ProxyError: HTTPSConnectionPool(host='kimi.moonshot.cn', port=443): Max retries exceeded with url: /api/auth/token/refresh (Caused by ProxyError('Unable to connect to proxy', OSError(0, 'Error')))
+2024-06-06 18:25:59,347 - main - WARNING - main - wrapper - 50 - 操作失败，正在重试... 尝试次数：1
+2024-06-06 18:26:01,366 - main - ERROR - main - get_model_res - 87 - 请求处理异常：
+urllib3.exceptions.ProxyError: ('Unable to connect to proxy', OSError(0, 'Error'))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\urllib3\connectionpool.py", line 844, in urlopen
+    retries = retries.increment(
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\urllib3\util\retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='kimi.moonshot.cn', port=443): Max retries exceeded with url: /api/auth/token/refresh (Caused by ProxyError('Unable to connect to proxy', OSError(0, 'Error')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\pythonProject\model_fastApiProject\main.py", line 71, in get_model_res
+    refresh_key, key = get_token_key(refresh_key)
+  File "D:\pythonProject\model_fastApiProject\kimichat_model\refresh_kimi.py", line 24, in get_token_key
+    res=requests.get('https://kimi.moonshot.cn/api/auth/token/refresh', headers=headers).json()
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\adapters.py", line 513, in send
+    raise ProxyError(e, request=request)
+requests.exceptions.ProxyError: HTTPSConnectionPool(host='kimi.moonshot.cn', port=443): Max retries exceeded with url: /api/auth/token/refresh (Caused by ProxyError('Unable to connect to proxy', OSError(0, 'Error')))
+2024-06-06 18:26:01,370 - main - WARNING - main - wrapper - 50 - 操作失败，正在重试... 尝试次数：2
+2024-06-06 18:26:03,392 - main - ERROR - main - get_model_res - 87 - 请求处理异常：
+urllib3.exceptions.ProxyError: ('Unable to connect to proxy', OSError(0, 'Error'))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\urllib3\connectionpool.py", line 844, in urlopen
+    retries = retries.increment(
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\urllib3\util\retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='kimi.moonshot.cn', port=443): Max retries exceeded with url: /api/auth/token/refresh (Caused by ProxyError('Unable to connect to proxy', OSError(0, 'Error')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\pythonProject\model_fastApiProject\main.py", line 71, in get_model_res
+    refresh_key, key = get_token_key(refresh_key)
+  File "D:\pythonProject\model_fastApiProject\kimichat_model\refresh_kimi.py", line 24, in get_token_key
+    res=requests.get('https://kimi.moonshot.cn/api/auth/token/refresh', headers=headers).json()
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\adapters.py", line 513, in send
+    raise ProxyError(e, request=request)
+requests.exceptions.ProxyError: HTTPSConnectionPool(host='kimi.moonshot.cn', port=443): Max retries exceeded with url: /api/auth/token/refresh (Caused by ProxyError('Unable to connect to proxy', OSError(0, 'Error')))
+2024-06-06 18:26:03,396 - main - WARNING - main - wrapper - 50 - 操作失败，正在重试... 尝试次数：3
+2024-06-06 18:26:05,409 - main - ERROR - main - wrapper - 52 - 达到最大重试次数，操作失败。
+2024-06-06 18:26:05,462 - main - ERROR - main - get_model_res - 87 - 请求处理异常：
+urllib3.exceptions.ProxyError: ('Unable to connect to proxy', OSError(0, 'Error'))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\urllib3\connectionpool.py", line 844, in urlopen
+    retries = retries.increment(
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\urllib3\util\retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='kimi.moonshot.cn', port=443): Max retries exceeded with url: /api/auth/token/refresh (Caused by ProxyError('Unable to connect to proxy', OSError(0, 'Error')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\pythonProject\model_fastApiProject\main.py", line 71, in get_model_res
+    refresh_key, key = get_token_key(refresh_key)
+  File "D:\pythonProject\model_fastApiProject\kimichat_model\refresh_kimi.py", line 24, in get_token_key
+    res=requests.get('https://kimi.moonshot.cn/api/auth/token/refresh', headers=headers).json()
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\adapters.py", line 513, in send
+    raise ProxyError(e, request=request)
+requests.exceptions.ProxyError: HTTPSConnectionPool(host='kimi.moonshot.cn', port=443): Max retries exceeded with url: /api/auth/token/refresh (Caused by ProxyError('Unable to connect to proxy', OSError(0, 'Error')))
+2024-06-06 18:26:05,466 - main - WARNING - main - wrapper - 50 - 操作失败，正在重试... 尝试次数：1
+2024-06-06 18:26:07,493 - main - ERROR - main - get_model_res - 87 - 请求处理异常：
+urllib3.exceptions.ProxyError: ('Unable to connect to proxy', OSError(0, 'Error'))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\urllib3\connectionpool.py", line 844, in urlopen
+    retries = retries.increment(
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\urllib3\util\retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='kimi.moonshot.cn', port=443): Max retries exceeded with url: /api/auth/token/refresh (Caused by ProxyError('Unable to connect to proxy', OSError(0, 'Error')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\pythonProject\model_fastApiProject\main.py", line 71, in get_model_res
+    refresh_key, key = get_token_key(refresh_key)
+  File "D:\pythonProject\model_fastApiProject\kimichat_model\refresh_kimi.py", line 24, in get_token_key
+    res=requests.get('https://kimi.moonshot.cn/api/auth/token/refresh', headers=headers).json()
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\adapters.py", line 513, in send
+    raise ProxyError(e, request=request)
+requests.exceptions.ProxyError: HTTPSConnectionPool(host='kimi.moonshot.cn', port=443): Max retries exceeded with url: /api/auth/token/refresh (Caused by ProxyError('Unable to connect to proxy', OSError(0, 'Error')))
+2024-06-06 18:26:07,498 - main - WARNING - main - wrapper - 50 - 操作失败，正在重试... 尝试次数：2
+2024-06-06 18:26:09,522 - main - ERROR - main - get_model_res - 87 - 请求处理异常：
+urllib3.exceptions.ProxyError: ('Unable to connect to proxy', OSError(0, 'Error'))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\urllib3\connectionpool.py", line 844, in urlopen
+    retries = retries.increment(
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\urllib3\util\retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='kimi.moonshot.cn', port=443): Max retries exceeded with url: /api/auth/token/refresh (Caused by ProxyError('Unable to connect to proxy', OSError(0, 'Error')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\pythonProject\model_fastApiProject\main.py", line 71, in get_model_res
+    refresh_key, key = get_token_key(refresh_key)
+  File "D:\pythonProject\model_fastApiProject\kimichat_model\refresh_kimi.py", line 24, in get_token_key
+    res=requests.get('https://kimi.moonshot.cn/api/auth/token/refresh', headers=headers).json()
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\adapters.py", line 513, in send
+    raise ProxyError(e, request=request)
+requests.exceptions.ProxyError: HTTPSConnectionPool(host='kimi.moonshot.cn', port=443): Max retries exceeded with url: /api/auth/token/refresh (Caused by ProxyError('Unable to connect to proxy', OSError(0, 'Error')))
+2024-06-06 18:26:09,557 - main - WARNING - main - wrapper - 50 - 操作失败，正在重试... 尝试次数：3
+2024-06-06 18:26:11,565 - main - ERROR - main - wrapper - 52 - 达到最大重试次数，操作失败。
+2024-06-06 18:27:05,697 - main - ERROR - main - get_model_res - 87 - 请求处理异常：
+urllib3.exceptions.ProxyError: ('Unable to connect to proxy', OSError(0, 'Error'))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\urllib3\connectionpool.py", line 844, in urlopen
+    retries = retries.increment(
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\urllib3\util\retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='kimi.moonshot.cn', port=443): Max retries exceeded with url: /api/auth/token/refresh (Caused by ProxyError('Unable to connect to proxy', OSError(0, 'Error')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\pythonProject\model_fastApiProject\main.py", line 71, in get_model_res
+    refresh_key, key = get_token_key(refresh_key)
+  File "D:\pythonProject\model_fastApiProject\kimichat_model\refresh_kimi.py", line 24, in get_token_key
+    res=requests.get('https://kimi.moonshot.cn/api/auth/token/refresh', headers=headers).json()
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\adapters.py", line 513, in send
+    raise ProxyError(e, request=request)
+requests.exceptions.ProxyError: HTTPSConnectionPool(host='kimi.moonshot.cn', port=443): Max retries exceeded with url: /api/auth/token/refresh (Caused by ProxyError('Unable to connect to proxy', OSError(0, 'Error')))
+2024-06-06 18:27:05,705 - main - WARNING - main - wrapper - 50 - 操作失败，正在重试... 尝试次数：1
+2024-06-06 18:27:07,731 - main - ERROR - main - get_model_res - 87 - 请求处理异常：
+urllib3.exceptions.ProxyError: ('Unable to connect to proxy', OSError(0, 'Error'))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\urllib3\connectionpool.py", line 844, in urlopen
+    retries = retries.increment(
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\urllib3\util\retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='kimi.moonshot.cn', port=443): Max retries exceeded with url: /api/auth/token/refresh (Caused by ProxyError('Unable to connect to proxy', OSError(0, 'Error')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\pythonProject\model_fastApiProject\main.py", line 71, in get_model_res
+    refresh_key, key = get_token_key(refresh_key)
+  File "D:\pythonProject\model_fastApiProject\kimichat_model\refresh_kimi.py", line 24, in get_token_key
+    res=requests.get('https://kimi.moonshot.cn/api/auth/token/refresh', headers=headers).json()
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\adapters.py", line 513, in send
+    raise ProxyError(e, request=request)
+requests.exceptions.ProxyError: HTTPSConnectionPool(host='kimi.moonshot.cn', port=443): Max retries exceeded with url: /api/auth/token/refresh (Caused by ProxyError('Unable to connect to proxy', OSError(0, 'Error')))
+2024-06-06 18:27:07,736 - main - WARNING - main - wrapper - 50 - 操作失败，正在重试... 尝试次数：2
+2024-06-06 18:27:09,767 - main - ERROR - main - get_model_res - 87 - 请求处理异常：
+urllib3.exceptions.ProxyError: ('Unable to connect to proxy', OSError(0, 'Error'))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\urllib3\connectionpool.py", line 844, in urlopen
+    retries = retries.increment(
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\urllib3\util\retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='kimi.moonshot.cn', port=443): Max retries exceeded with url: /api/auth/token/refresh (Caused by ProxyError('Unable to connect to proxy', OSError(0, 'Error')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\pythonProject\model_fastApiProject\main.py", line 71, in get_model_res
+    refresh_key, key = get_token_key(refresh_key)
+  File "D:\pythonProject\model_fastApiProject\kimichat_model\refresh_kimi.py", line 24, in get_token_key
+    res=requests.get('https://kimi.moonshot.cn/api/auth/token/refresh', headers=headers).json()
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\adapters.py", line 513, in send
+    raise ProxyError(e, request=request)
+requests.exceptions.ProxyError: HTTPSConnectionPool(host='kimi.moonshot.cn', port=443): Max retries exceeded with url: /api/auth/token/refresh (Caused by ProxyError('Unable to connect to proxy', OSError(0, 'Error')))
+2024-06-06 18:27:09,771 - main - WARNING - main - wrapper - 50 - 操作失败，正在重试... 尝试次数：3
+2024-06-06 18:27:11,783 - main - ERROR - main - wrapper - 52 - 达到最大重试次数，操作失败。
+2024-06-06 18:27:11,837 - main - ERROR - main - get_model_res - 87 - 请求处理异常：
+urllib3.exceptions.ProxyError: ('Unable to connect to proxy', OSError(0, 'Error'))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\urllib3\connectionpool.py", line 844, in urlopen
+    retries = retries.increment(
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\urllib3\util\retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='kimi.moonshot.cn', port=443): Max retries exceeded with url: /api/auth/token/refresh (Caused by ProxyError('Unable to connect to proxy', OSError(0, 'Error')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\pythonProject\model_fastApiProject\main.py", line 71, in get_model_res
+    refresh_key, key = get_token_key(refresh_key)
+  File "D:\pythonProject\model_fastApiProject\kimichat_model\refresh_kimi.py", line 24, in get_token_key
+    res=requests.get('https://kimi.moonshot.cn/api/auth/token/refresh', headers=headers).json()
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\adapters.py", line 513, in send
+    raise ProxyError(e, request=request)
+requests.exceptions.ProxyError: HTTPSConnectionPool(host='kimi.moonshot.cn', port=443): Max retries exceeded with url: /api/auth/token/refresh (Caused by ProxyError('Unable to connect to proxy', OSError(0, 'Error')))
+2024-06-06 18:27:11,841 - main - WARNING - main - wrapper - 50 - 操作失败，正在重试... 尝试次数：1
+2024-06-06 18:27:13,866 - main - ERROR - main - get_model_res - 87 - 请求处理异常：
+urllib3.exceptions.ProxyError: ('Unable to connect to proxy', OSError(0, 'Error'))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\urllib3\connectionpool.py", line 844, in urlopen
+    retries = retries.increment(
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\urllib3\util\retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='kimi.moonshot.cn', port=443): Max retries exceeded with url: /api/auth/token/refresh (Caused by ProxyError('Unable to connect to proxy', OSError(0, 'Error')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\pythonProject\model_fastApiProject\main.py", line 71, in get_model_res
+    refresh_key, key = get_token_key(refresh_key)
+  File "D:\pythonProject\model_fastApiProject\kimichat_model\refresh_kimi.py", line 24, in get_token_key
+    res=requests.get('https://kimi.moonshot.cn/api/auth/token/refresh', headers=headers).json()
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\adapters.py", line 513, in send
+    raise ProxyError(e, request=request)
+requests.exceptions.ProxyError: HTTPSConnectionPool(host='kimi.moonshot.cn', port=443): Max retries exceeded with url: /api/auth/token/refresh (Caused by ProxyError('Unable to connect to proxy', OSError(0, 'Error')))
+2024-06-06 18:27:13,870 - main - WARNING - main - wrapper - 50 - 操作失败，正在重试... 尝试次数：2
+2024-06-06 18:27:15,897 - main - ERROR - main - get_model_res - 87 - 请求处理异常：
+urllib3.exceptions.ProxyError: ('Unable to connect to proxy', OSError(0, 'Error'))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\urllib3\connectionpool.py", line 844, in urlopen
+    retries = retries.increment(
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\urllib3\util\retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='kimi.moonshot.cn', port=443): Max retries exceeded with url: /api/auth/token/refresh (Caused by ProxyError('Unable to connect to proxy', OSError(0, 'Error')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\pythonProject\model_fastApiProject\main.py", line 71, in get_model_res
+    refresh_key, key = get_token_key(refresh_key)
+  File "D:\pythonProject\model_fastApiProject\kimichat_model\refresh_kimi.py", line 24, in get_token_key
+    res=requests.get('https://kimi.moonshot.cn/api/auth/token/refresh', headers=headers).json()
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\51976\AppData\Roaming\Python\Python38\site-packages\requests\adapters.py", line 513, in send
+    raise ProxyError(e, request=request)
+requests.exceptions.ProxyError: HTTPSConnectionPool(host='kimi.moonshot.cn', port=443): Max retries exceeded with url: /api/auth/token/refresh (Caused by ProxyError('Unable to connect to proxy', OSError(0, 'Error')))
+2024-06-06 18:27:15,901 - main - WARNING - main - wrapper - 50 - 操作失败，正在重试... 尝试次数：3
+2024-06-06 18:27:17,912 - main - ERROR - main - wrapper - 52 - 达到最大重试次数，操作失败。
+2024-06-06 18:28:00,717 - main - INFO - main - get_model_res - 84 - 模型 KIMI 响应生成成功，当前input:地球是什么颜色,'输出output：地球通常被描述为蓝色星球，因为它的表面大约71%被水覆盖，主要是海洋。从太空看，地球呈现出蓝色、白色和绿色的混合色彩。蓝色代表海洋，白色可能来自云层，而绿色则来自陆地上的植被。此外，地球还有棕色、黄色和其他颜色，这些颜色来自于不同的地形和地貌，如沙漠、山脉和农田。
+2024-06-06 18:28:15,377 - main - INFO - main - get_model_res - 84 - 模型 KIMI 响应生成成功，当前input:地球是什么颜色,'输出output：地球通常被描述为蓝色星球，因为从太空看，地球表面大约71%被水覆盖，主要是海洋，它们反射太阳光，呈现出蓝色。然而，地球也是一个多彩的星球，拥有绿色的森林、黄色的沙漠、白色的极地冰盖和棕色的土地等。从不同的视角和不同的距离看，地球可以呈现出多种颜色。
+2024-06-06 18:28:26,558 - main - INFO - main - get_model_res - 84 - 模型 KIMI 响应生成成功，当前input:地球是什么颜色,'输出output：地球是蓝色的。从太空中看，地球呈现出蓝色，这是因为地球表面约71%被水覆盖，主要是海洋。此外，地球还有绿色的陆地、白色的云层和冰川、黄色的沙漠等，但蓝色是地球最为显著的特征。
+2024-06-06 18:28:33,777 - main - INFO - main - get_model_res - 84 - 模型 KIMI 响应生成成功，当前input:孙悟空是谁哇,'输出output：孙悟空是中国古典小说《西游记》中的主要角色之一，由吴承恩所著。他是一位神通广大的猴子，被称为齐天大圣。孙悟空拥有七十二变，能够变化成任何形态，并且能够使用一根如意金箍棒作为武器。他曾大闹天宫，后被佛祖压在五指山下。后来，孙悟空被唐僧收为徒弟，一同前往西天取经，历经九九八十一难，最终取得真经，修成正果。孙悟空以其机智、勇敢和变化无穷的形象，深受人们喜爱。
+2024-06-06 18:28:37,482 - main - INFO - main - get_model_res - 84 - 模型 KIMI 响应生成成功，当前input:两对父子去饭店吃饭出来为什么只有3个人,'输出output：这个问题是一个经典的逻辑谜题。答案是两对父子实际上只有三个人：一个爷爷、他的儿子（也就是爸爸），以及爸爸的儿子（也就是孙子）。爷爷和爸爸是一对父子，爸爸和孙子又是一对父子，所以总共是三个人。
+2024-06-06 18:28:49,230 - main - INFO - main - get_model_res - 84 - 模型 KIMI 响应生成成功，当前input:谈谈Akamai,'输出output：Akamai Technologies是一家全球领先的内容分发网络（CDN）和云服务提供商，成立于1998年。Akamai的网络覆盖全球，拥有数以千计的服务器分布在世界各地，能够为网站提供快速的内容分发和高效的数据传输服务。
+
+Akamai的主要服务包括：
+
+1. **内容分发网络（CDN）**：通过将内容缓存到全球各地的服务器上，Akamai能够确保用户无论身在何处都能快速访问网站和应用。
+
+2. **网络安全服务**：Akamai提供多种网络安全解决方案，包括DDoS防护、Web应用防火墙等，帮助企业抵御网络攻击。
+
+3. **云服务**：Akamai的云平台提供了一系列服务，如云存储、云安全、云性能优化等，帮助企业构建和优化其在线业务。
+
+4. **媒体交付**：Akamai为视频和音频内容提供高效的分发服务，确保用户能够流畅地观看和收听。
+
+5. **企业解决方案**：Akamai还为企业提供定制化的解决方案，帮助企业优化其网络性能和安全性。
+
+Akamai的技术和服务在互联网行业中具有重要地位，它帮助许多大型网站和在线服务提供商实现了高效、安全的内容分发和网络运营。通过其全球性的网络基础设施，Akamai能够为全球用户提供快速、可靠的在线体验。
